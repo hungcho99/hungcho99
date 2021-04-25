@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hungcho99
 - 👀 I’m interested in Bac Ninh
-- 🌱 I’m currently learning Tieng Viet
+- 🌱 Đặng Văn Hùng
 - 
 -
 
