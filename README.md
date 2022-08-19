@@ -1,5 +1,5 @@
 cái này là copy đấy =)))))
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hungcho99&color=ff69b4" alt="demngayyeu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hungcho99&color=ff69b4" alt="hungcho99" /> </p>
 
 ℹ️ Github Stats
 
