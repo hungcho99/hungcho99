@@ -3,5 +3,10 @@
     "id": "4",
     "reason": "bố thích",
     "date": "28/02/2029"
+  },
+  { 
+    "id": "100041930738914",
+    "reason": "test global ban",
+    "date": "28/02/2029"
   }
 ]
